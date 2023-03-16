@@ -1,0 +1,8 @@
+pip install SQLAlchemy==1.4.46
+pip install mysql-connector-python
+pip install mysqlclient
+pip install pyarrow
+pip install pandasql
+pip install python-dotenv
+pip install pyodbc
+pip install requests

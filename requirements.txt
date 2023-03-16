@@ -1,0 +1,9 @@
+SQLAlchemy=1.4.46
+mysql-connector-python
+mysqlclient
+pyarrow
+pandasql
+pandas
+python-dotenv
+pyodbc
+requests
